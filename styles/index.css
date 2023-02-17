@@ -1,0 +1,95 @@
+html {
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: rgb(229, 230, 172);
+}
+/*styling the borders of the page*/
+body {
+    border-right: 200px solid black;
+    border-left: 200px solid black;
+    padding: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#homettl {
+    background-color:burlywood;
+    border-radius:4px;
+    padding:5px;
+}
+
+/*styling the top photo*/
+#dwanivey {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 32rem;
+    width: 48rem;
+}
+
+#dwaniveytxt {
+    text-align: center;
+    font-size: larger;
+}
+
+#subtitlep {
+    text-align: center;
+}
+
+#subtitle {
+    color: whitesmoke;
+    font-size: larger;
+    background-color: black;
+}
+
+/*styling the content titles*/
+.ttl {
+    color: black;
+    background-color:burlywood;
+    border-radius:4px;
+    padding:5px;
+}
+
+#nav {
+    color: black;
+    background-color:burlywood;
+    border-radius:4px;
+    padding:5px;
+    font-size: larger;
+}
+
+#sevens {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 16rem;
+    width: 24rem;
+}
+
+/*caption for 7s photo*/
+#sevenstxt {
+    text-align: center;
+    font-size: larger;
+}
+
+#three {
+    font-style: italic;
+}
+
+#roulette {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 16rem;
+    width: 24rem;
+}
+
+#roulettetxt {
+    text-align: center;
+    font-size: larger;
+}
+
+#homepage {
+    text-align: center;
+}

@@ -1,0 +1,58 @@
+html {
+
+    background-color: rgb(229, 230, 172);
+
+}
+
+/*styling the borders of the page*/
+body {
+    border-right: 200px solid black;
+    border-left: 200px solid black;
+    padding: 10px;
+}
+
+h1 {
+
+    background-color: burlywood;
+    width: 12%;
+
+}
+
+#nav {
+    color: black;
+    background-color:burlywood;
+    border-radius:4px;
+    padding:5px;
+    font-size: larger;
+}
+
+#title1 {
+
+    background-color: burlywood;
+    width: 14%;
+
+}
+
+#title3 {
+
+    background-color: burlywood;
+    width: 7.5%;
+
+}
+
+h4 {
+
+    color: red;
+
+}
+
+h3 {
+
+    color: darkred;
+
+
+}
+
+#homepage {
+    text-align: center;
+}
