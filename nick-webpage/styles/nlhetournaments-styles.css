@@ -1,0 +1,79 @@
+html {
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: rgb(229, 230, 172)
+  }
+
+/* HR STYLE */
+hr{
+    height: 1px;
+    background-color:rgb(49, 39, 18);
+    border: solid black 2px
+}
+#top-hr{
+    height:6px;
+}
+
+/* MARGIN SETTING */
+.set-margins, div, p, h1, h2, h3, h4, h5, h6{
+    margin-left:55px;
+    margin-right:55px;
+    line-height:26px;
+    text-align:justify;
+}
+
+/* PAGE BORDERS */
+#left, #right{
+    background-color:rgb(39, 18, 2);
+    position:fixed;
+    top:0;
+    bottom:0;
+    width:25px
+}
+#left{
+    left:0;
+    margin-left:0px;
+    border-right: solid black 5px;
+    border-left: solid rgb(12, 6, 1) 15px
+}
+#right{
+    right:0;
+    margin-right:0px;
+    border-left: solid black 5px;
+    border-right: solid rgb(12, 6, 1) 15px
+}
+span{
+    background-color:burlywood;
+    border-radius:4px;
+    padding:5px
+}
+
+/* IMAGES */
+img{
+    border: solid rgb(61, 58, 46) 3px;
+    border-radius: 8px
+  }
+.img-float{
+    float:right;
+    margin-left:20px;
+    width:12%;
+    min-width:120px;
+}
+.object-center{
+    text-align:center;
+    position:relative;
+}
+
+/* "GUESS THE CELEBRITY APPEARANCE" */
+.celeb{
+    opacity: 0.5;
+    width:7%;
+    min-width:60px;
+    display:inline-block;
+    position:relative;
+    margin:40px;
+    border-radius:100px;
+}
+.celeb:hover{
+    opacity:1.0;
+}
+
